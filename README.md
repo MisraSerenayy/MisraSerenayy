@@ -54,7 +54,7 @@ n8n, Slack API, Speckle API
 Rhino/Grasshopper, matplotlib, seaborn, plotly, folium
 
 **Dev Tools:**  
-Git, GitHub, VS Code, Docker (basic!)
+Git, GitHub, VS Code
 
 ---
 
