@@ -1,62 +1,51 @@
 # Architect turned AI Explorer, finding new forms where creativity meets code.
 
-## Designing with Purpose
-*Driven by a passion for addressing both environmental and social challenges in architecture through new digital tools and workflows.*
+# Hi, I'm Mısra Serenay Özgök Genç 👋
 
-## Generative Thinking
-*Exploring the power of generative AI in urban modeling, data-driven analysis of green spaces, and biomimicry-inspired design.*
-
-## Beyond Automation
-*Using AI and automation—tools like geospatial analysis, n8n, and generative models—to empower more resilient, inclusive, and human-centered environments.*
-
-## Technology as Creative Partner
-*Believing technology is most powerful when it enhances creativity, supports climate adaptation, and helps us design for real human needs.*
-
-## Connecting Knowledge
-*Curious, fast-learning, and eager to experiment—combining ideas across disciplines, from computational design to sustainability and beyond.*
+**Architect & AI Researcher**  
+Exploring the intersection of architecture, generative AI, and urban data science.
 
 ---
 
-### About
+### What I Do
 
-- MaAI, AI for Architecture & Built Environments (IAAC Barcelona)  
-- Architect, creative coder, city enthusiast  
-- Projects: **GG WORLDS**, Urban Data, 3D Generative Tools
-- Portfolio: Generative Urban Models, Biomimicry Facades, Urban Green Space Analysis
-- Always exploring new ways to make designs smarter and more human.
+I create digital tools and workflows to analyze, simulate, and design built environments. My work bridges the worlds of architecture, AI, and urban data—enabling new ways to understand, visualize, and shape our cities.
+
+**My projects include:**
+- 3D city generation & visualization
+- Urban growth simulation & land use prediction
+- Interactive plugins for architects and city planners
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, HTML, CSS
+- **AI/ML:** PyTorch, Hugging Face, scikit-learn, XGBoost, LightGBM, Diffusers, ControlNet, LoRA
+- **Spatial Analysis:** osmnx, geopandas, Google Earth Engine, shapely
+- **Data/Graphs:** pandas, numpy, PyTorch Geometric
+- **3D & Design:** Blender, Rhino/Grasshopper, trimesh
+- **APIs & Automation:** n8n, Slack API, Speckle API
+- **Dev Tools:** Git, VS Code
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### About Me
 
-**Languages:**  
-Python, HTML, CSS
-
-**AI/ML & Generative Models:**  
-PyTorch, Hugging Face, OpenAI, Diffusers, LoRA fine-tuning, ControlNet, LangChain, LLM APIs
-
-**Machine Learning / Graph ML:**  
-scikit-learn (regression models, random forest), XGBoost, LightGBM, PyTorch Geometric (PyG)
-
-**Urban & Geospatial Analysis:**  
-osmnx, geopandas, shapely, Google Earth Engine, QGIS
-
-**Data & Graphs:**  
-pandas, numpy, ChromaDB,
-
-**Geometry & Structure:**  
-Blender, trimesh, OBJ/GLB parsing
-
-**Automation & Workflow:**  
-n8n, Slack API, Speckle API
-
-**Design & Visualization:**  
-Rhino/Grasshopper, matplotlib, seaborn, plotly, folium
-
-**Dev Tools:**  
-Git, GitHub, VS Code
+I'm also an artist who loves exploring the overlap between technology, design, and storytelling. My passions include painting, biomimicry, and experimenting with new digital tools.
 
 ---
+
+### 🤝 Let’s Connect!
+
+I'm always open to collaborations, research, and creative projects at the intersection of AI and the built environment.
+
+- [Hugging Face @MisraSerenayy](https://huggingface.co/MisraSerenayy) – My trained diffusion models & custom datasets
+- [LinkedIn](https://www.linkedin.com/in/m%C4%B1sra-serenay-%C3%B6zg%C3%B6k-gen%C3%A7-857530208)
+
+---
+
+> "Designing not just buildings, but the algorithms that shape our cities."
 
 
 <!--
