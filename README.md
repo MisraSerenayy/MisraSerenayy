@@ -27,12 +27,6 @@
 
 ---
 
----
-
----
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  
@@ -61,10 +55,6 @@ Rhino/Grasshopper, matplotlib, seaborn, plotly, folium
 
 **Dev Tools:**  
 Git, GitHub, VS Code, Docker (basic!)
-
----
-
-
 
 ---
 
